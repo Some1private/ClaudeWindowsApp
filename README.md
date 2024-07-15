@@ -30,7 +30,7 @@ If you want to build the application from source:
 
 1. Clone this repository:
    ```
-   git clone https://github.com/some1private/claude-desktop.git
+   git clone [[https://github.com/some1private/claude-desktop.git](https://github.com/Some1private/ClaudeWindowsApp.git]
    ```
 2. Navigate to the project directory:
    ```
