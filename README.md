@@ -2,6 +2,8 @@
 
 A simple Windows desktop application for Claude AI.
 
+Download: [Releases](https://github.com/Some1private/ClaudeWindowsApp/releases/)
+
 ## Description
 
 This application provides a convenient way to access Claude AI directly from your desktop, without the need to open a web browser.
@@ -14,7 +16,7 @@ This application provides a convenient way to access Claude AI directly from you
 
 ## Installation
 
-1. Download the latest release from the [Releases](https://github.com/yourusername/claude-desktop/releases) page.
+1. Download the latest release from the [Releases](https://github.com/Some1private/ClaudeWindowsApp/releases/) page.
 2. Run the installer (.exe file).
 3. Follow the on-screen instructions to complete the installation.
 
